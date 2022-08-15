@@ -6,10 +6,7 @@
 
 
 #---------------------------------------------------------------
-# @author Bhargav Vemula C0818081
-# @author Govind Vijayan C0819805
-# @author Jaison Kayamkattil Jacob C0814631
-# @author Prasanth Moothedath Padmakumar C0796752
+# @author Aswathy Jewel
 
 # Dataset File downloaded from https://www.kaggle.com/aariyan101/usa-housingcsv
 
